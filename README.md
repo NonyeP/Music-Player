@@ -53,9 +53,11 @@ Execute the application using the provided executable file or command. For Java 
  - Control Playback: Play, pause, stop, and adjust the volume of the audio
 
 # Snapshot of M.Player
-Use this link to view the M.Player Image
+Use these link to view the M.Player Image
 > [src/](https://github.com/NonyeP/Music-Player/blob/main/Streamer/MusicStreamer/src/streamer/M.PlayerImage2.png)
+
 >[src/](https://github.com/NonyeP/Music-Player/blob/main/Streamer/MusicStreamer/src/streamer/M.PlayerImage1.png)
+
 # Note
 This application is still under development.
 
